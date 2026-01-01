@@ -55,7 +55,7 @@ const Hero = () => {
         >
           <motion.h2 variants={textVariants}>Lim Bunhov</motion.h2>
           <motion.h1 variants={textVariants}>
-            Student of Information Technology and Engineering
+            Information Technology Engineering Graduated
           </motion.h1>
           <motion.div className="buttons" variants={textVariants}>
             {/* <motion.button
@@ -71,7 +71,7 @@ const Hero = () => {
               Contact Me
             </motion.button>
             <a
-              href="https://drive.google.com/file/d/1iRI_lBb-AocyB_BJJkGkzHWbXSRaUbdh/view?usp=drive_link"
+              href="/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="resume-button"
