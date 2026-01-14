@@ -7,7 +7,7 @@ const items = [
     id: 1,
     title: "School Learning Management System",
     img: "/lms_image.png",
-    desc: "This system has three roles: Admin, Teacher, and Student. Admins can create classes and add students and teachers. Teachers can assign tasks, grade them, and mark attendance. Students can view their scores, attendance, and assignments.",
+    desc: "This system has three roles: Admin, Instructor, and Student. Admins can manage and monitor course date of the system. Instructor can create and post thier course with progress tracking and qiuz. Students can enroll to any courses they wanted and see their progress.",
     link: "https://youtu.be/Eg_5QQJ6bz4?si=0TZZc4v7NzTbzHx7",
     github: "https://github.com/bunhovlim/pp_frontend",
   },
